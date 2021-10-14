@@ -71,9 +71,5 @@ disp(strcat('Actual Roots of the polynomial are:',num2str(roots([1,-3,1,-2,2])))
 
 disp(strcat('The number of iterations used by the algorithm are:',num2str(count)));
 
-%% Segregating initial guesses based on the root which is reached
-
-% Sample array of initial guesses
-% init_arr = 10*rand(1,50);
 
 
